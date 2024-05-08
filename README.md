@@ -1,13 +1,14 @@
+<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25"> 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚁. 𝙱𝚄𝙽𝙽𝚈 𝚆𝙾𝚁𝙻𝙳 !!&nbsp; <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World+!!+;Welcome+To+MR.BUNNY+World+;This+is+;MR.BUNNY+official+Github+Account+;Don't+Forget+To+Follow+My+Github+;Thank+You+Everyone+Free)](https://git.io/typing-svg) 
 
-<h1 align="center">WELCOME TO MR. BUNNY WORLD</h1>
-<h3 align="center">;) I AM A NOOB EDITOR 🐰</h3>
+<h3 align="center">:) 𝙸 𝙰𝙼 𝙰 𝙽𝙾𝙾𝙱 𝙴𝙳𝙸𝚃𝙾𝚁 🐰</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-bunny-xd&label=Profile%20views&color=0e75b6&style=flat" alt="mr-bunny-xd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-bunny-xd" alt="mr-bunny-xd" /></a> </p>
 
-- 👨‍💻 THIS IS THE OFFICIAL MR. BUNNY GITHUB PROFILE [https://github.com/MR-BUNNY-xD](https://github.com/MR-BUNNY-xD)
+- 👨‍💻 𝚃𝙷𝙸𝚂 𝙸𝚂 𝚃𝙷𝙴 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻 𝙼𝚁. 𝙱𝚄𝙽𝙽𝚈 𝙶𝙸𝚃𝙷𝚄𝙱 𝙿𝚁𝙾𝙵𝙸𝙻𝙴 🐰[https://github.com/MR-BUNNY-xD](https://github.com/MR-BUNNY-xD)
 
 - 📝 TRYING TO LEARN [python](python)
 
