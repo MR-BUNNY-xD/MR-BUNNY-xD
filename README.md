@@ -27,3 +27,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-bunny-xd&show_icons=true&locale=en" alt="mr-bunny-xd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-bunny-xd&" alt="mr-bunny-xd" /></p> 
+
+<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
+
+[![MR-BUNNY-xD github activity graph](https://my-activity-graph-instance.herokuapp.com/graph?username=MR-BUNNY-xD&theme=react-dark&area=true&hide_border=true)](https://github.com/MR-BUNNY-xD/github-readme-activity-graph)
+
+<a href="https://github.com/MR-BUNNY-xD/PYCURL.git"><img title="PYCURL" src="https://github-readme-stats.vercel.app/api/pin/?username=MR-BUNNY-xD&repo=PYCURL&theme=gotham"></a>
